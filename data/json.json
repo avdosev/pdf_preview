@@ -1,0 +1,47 @@
+{
+    "data_path": "./data/pdf.pdf",
+    "output_path": "output/pdf",
+    "preview_name_template": "{page_number}_{width}_{height}.png",
+    "pages": [
+        {
+            "index": 0,
+            "sizes": [
+                {"width": 100, "height": 200},
+                {"width": 200, "height": 300},
+                {"width": 500, "height": 600},
+                {"width": 800, "height": 1000},
+                {"width": 2000, "height": 2000}
+            ]
+        },
+        {
+            "index": 10,
+            "sizes": [
+                {"width": 100, "height": 200},
+                {"width": 200, "height": 300},
+                {"width": 500, "height": 600},
+                {"width": 800, "height": 1000},
+                {"width": 2000, "height": 2000}
+            ]
+        },
+        {
+            "index": 20,
+            "sizes": [
+                {"width": 100, "height": 200},
+                {"width": 200, "height": 300},
+                {"width": 500, "height": 600},
+                {"width": 800, "height": 1000},
+                {"width": 2000, "height": 2000}
+            ]
+        },
+        {
+            "index": 27,
+            "sizes": [
+                {"width": 100, "height": 200},
+                {"width": 200, "height": 300},
+                {"width": 500, "height": 600},
+                {"width": 800, "height": 1000},
+                {"width": 2000, "height": 2000}
+            ]
+        }
+    ]
+}
